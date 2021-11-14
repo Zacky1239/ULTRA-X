@@ -9,9 +9,9 @@
 
 
 # υℓтяα χ вσт
-This is a ULTRA made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
+This is a chirag bot made for telegram users. I made this CHIRAG bot with help of all other bot owners available in telegram. All credits goes to my Respective frnds...
 
-This is the one and only official υℓтяα χ вσт made by [ Team Ultra](https://t.me/ULTRAXOT) 
+This is the one and only official CHIRAG  made by [ Team Ultra](https://t.me/ULTRAXOT) 
 
 Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%93%D2%93%C9%AA%E1%B4%84%C9%AA%E1%B4%80%CA%9F-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B) Enjoy Your Bot!!💝
 
